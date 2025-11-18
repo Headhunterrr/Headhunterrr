@@ -1,4 +1,9 @@
-## Hi there 👋
+## My name is Vyacheslav Kamilov 
+
+I’m currently learning SQL and Python
+Following the roadmaps of basic skills on roadmap.sh
+Target - become Data Engineer
+
 
 <!--
 **Headhunterrr/Headhunterrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
