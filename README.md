@@ -1,8 +1,8 @@
 ## My name is Vyacheslav Kamilov 
 
-I’m currently learning SQL and Python\
+I’m currently learning Python\
 Following the roadmaps of basic skills on roadmap.sh\
-Target - become Data Engineer
+Target - become BackEnd Developer
 
 
 <!--
