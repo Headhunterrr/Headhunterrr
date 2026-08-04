@@ -1,4 +1,4 @@
-## My name is Vyacheslav Kamilov 
+## My name is Vyacheslav
 
 I’m currently learning Python\
 Following the roadmaps of basic skills on roadmap.sh\
