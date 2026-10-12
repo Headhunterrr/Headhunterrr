@@ -1,8 +1,7 @@
 ## My name Vyacheslav
 
 Learning Python, SQL and Frameworks\
-Following the roadmaps of basic skills on roadmap.sh\
-
+Following the roadmaps of basic skills on roadmap.sh
 
 <!--
 **Headhunterrr/Headhunterrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
