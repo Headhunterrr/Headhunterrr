@@ -1,8 +1,7 @@
-## My name is Vyacheslav
+## My name Vyacheslav
 
-I’m currently learning Python\
+Learning Python, SQL and Frameworks\
 Following the roadmaps of basic skills on roadmap.sh\
-Target - become BackEnd Developer
 
 
 <!--
